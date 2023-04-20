@@ -5,9 +5,9 @@
 Quiz app made for web programming Made with android studio
 
 # Acquired knowledge
-* Trabalhar com mais de uma **activity**
-* O uso de **RadioGroup** e **RadioButtom**
-* Usar o **Constraint layout**
+* Work with more than one **activity**
+* The use of **RadioGroup** and **RadioButtom**
+* Use the **Constraint layout**
 * Enviar **dados** de uma **activity** para outra
 * Utilização do `MediaPlayer` para tocar um som no aplicativo
 
