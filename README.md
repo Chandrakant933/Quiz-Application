@@ -26,7 +26,7 @@ public class Question {
 
     public Question(String question,String rightAnswer, String ... answers ) {
         this.question = question;
-        this.rightAnswer = rightAnswer;
+        this.rightAnswer = rightAnswer;s
         this.answers.add(answers[0]);
         this.answers.add(answers[1]);
         this.answers.add(answers[2]);
