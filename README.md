@@ -2,9 +2,9 @@
 
 ![quiz-images](readme/app-images.png)
 
-App quiz feito para matéria de programação Web Feito com android studio
+Quiz app made for web programming Made with android studio
 
-# Conhecimetos adquiridos
+# Acquired knowledge
 * Trabalhar com mais de uma **activity**
 * O uso de **RadioGroup** e **RadioButtom**
 * Usar o **Constraint layout**
