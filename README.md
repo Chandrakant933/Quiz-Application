@@ -57,11 +57,16 @@ Example of using the `Question` class:
 questions = new ArrayList<Question>(){
             {
 
-                add(new Question("O que é Bitcoin?", "B", "Moeda governamental", "Crypto Moeda", "Uma rede decentralizada", "Software de Datamining"));
-
-                add(new Question("Quem foi que criou o Bitcoin?", "B", "Margaret Hamilton", "Satoshi Nakamoto", "Alan Turing", "Gustavo Guanabara"));
-
-                add(new Question("Quem foi o primeiro programador?", "D", "Steve Jobs", "Linus Torvalds", "Alan Turing", "Ada Lovelace"));
+               add(new Question("Under which of the following Android is licensed?", "D", "Sourceforge", "OSS","None of the above", "Apache/MIT"));
+                add(new Question("For which of the following Android is mainly developed?", "A", "Mobile devices", "Laptops","Desktops", "Servers"));
+                add(new Question("Which of the following is the first mobile phone released that ran the Android OS?", "D", "HTC Hero", "Google gPhone","None of the above", "T - Mobile G1"));
+                add(new Question("Which of the following virtual machine is used by the Android operating system?", "B", "JVM", "Dalvik virtual machine", "Simple virtual machine", "None of the above"));
+                add(new Question(" Android is based on which of the following language?", "A", "Java", "C++", "C", "None of the above"));
+                add(new Question("APK stands for -", "D", "None of the above", "Android Phone Kit", "Android Page Kit", "Android Package Kit"));
+                add(new Question("Which of the following converts Java byte code into Dalvik byte code?", "C", "Dalvik converter", "Mobile interpretive compiler (MIC)", "Dex compiler", "None of the above"));
+                add(new Question("How can we stop the services in android?", "B", "By using the finish() method", "By using the stopSelf() and stopService() method", "By using system.exit() method", "None of the above"));
+                add(new Question("What is an activity in android?", "B", "android class", "A single screen in an application with supporting java code", "android package", "None of the above"));
+                add(new Question("How can we kill an activity in android?", "D", "Using finish() method", "Using finishActivity(int requestCode)", "Neither (a) nor (b)", "Both (a) and (b)"));
             }
         };
 ```
