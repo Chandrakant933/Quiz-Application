@@ -8,8 +8,8 @@ Quiz app made for web programming Made with android studio
 * Work with more than one **activity**
 * The use of **RadioGroup** and **RadioButtom**
 * Use the **Constraint layout**
-* Enviar **dados** de uma **activity** para outra
-* Utilização do `MediaPlayer` para tocar um som no aplicativo
+* Send **data** from one **activity** to another
+* Using `MediaPlayer` to play a sound in the app
 
 # Questões do Quiz
 
