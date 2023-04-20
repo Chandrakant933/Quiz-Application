@@ -32,16 +32,16 @@ public class ShowScoreActivity extends AppCompatActivity {
 
         if(score >= 8){
             audio = MediaPlayer.create(this, R.raw.high_score);
-            return "Você é muito inteligente!";
+            return "excellent you did a great job";
         }
 
         if (score >= 5){
             audio = MediaPlayer.create(this,  R.raw.medium_score);
-            return "Parabéns!";
+            return "very good but you should try more ";
         }
 
         audio = MediaPlayer.create(this,  R.raw.low_score);
-        return "Você precisa estudar mais...";
+        return "you need more pratice";
 
     }
 

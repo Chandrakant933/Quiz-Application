@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="#D4BDD6"
     tools:context=".WrongActivity">
 
     <ImageView
@@ -16,6 +16,6 @@
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/incorrect" />
+        app:srcCompat="@drawable/declined" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
