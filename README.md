@@ -73,5 +73,4 @@ questions = new ArrayList<Question>(){
 
 ___
 <h4 align="center">
-    Feito com 💜 by  Vitor Carmo
 </h4>
