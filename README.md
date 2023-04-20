@@ -11,11 +11,12 @@ Quiz app made for web programming Made with android studio
 * Send **data** from one **activity** to another
 * Using `MediaPlayer` to play a sound in the app
 
-# Questões do Quiz
+# 
+quiz questions
 
-As questões foram adicionadas pela classe `Question`
+Questions were added by the `Question` class
 
-Classe `Question`
+`Question` class
 
 ```java
 public class Question {
@@ -49,7 +50,8 @@ public class Question {
 ```
 
 
-Exemplo da utilização da classe `Question`:
+
+Example of using the `Question` class:
 
 ```java
 questions = new ArrayList<Question>(){
